@@ -139,6 +139,8 @@ int main(){
         printf("No\n");
 
     printf("cambio para el commit");
+    printf("Cambio commit");
+    printf("Cambio commit");
 
     node_destroy(p1);
     node_destroy(p2);

@@ -207,6 +207,9 @@ int main(){
         printf("No \n");
 printf("Cambio commit");
 
+printf("Cambio commit");
+printf("Cambio commit");
+
     /*destruir nodos*/
     graph_destroy(g);
     node_destroy(p1);
