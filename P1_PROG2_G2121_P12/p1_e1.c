@@ -2,6 +2,7 @@
 Nombre del módulo:p1_e1.c
 Autor: Alexis Calderon, Mario Baena
 Fecha:21/02/2017
+Version 1.0
 ****************************************************/
 
 #include <stdio.h>
